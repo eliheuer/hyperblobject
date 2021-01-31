@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Font';
+    src: url('../../fonts/ttf/Font.ttf');
+}
+body {
+    font-family:Font;
+    background-color:#000;
+    color:#ddd;
+    scrollbar-width: none;
+}
+p {
+    font-size:8em;
+    line-height:0.1;
+    margin-bottom:-0.35em;
+}

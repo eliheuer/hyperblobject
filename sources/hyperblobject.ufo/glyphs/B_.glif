@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="B" format="2">
+	<unicode hex="0042"/>
+	<advance width="500"/>
+	<outline>
+		<contour identifier="964a01c3-9ec8-4caf-960c-f4c3c6847b39">
+			<point x="195.6258" y="-13.247457"/>
+			<point x="160.0839" y="-7.2970605"/>
+			<point x="127.22356" y="5.8023415" type="curve"/>
+			<point x="94.36322" y="18.901743"/>
+			<point x="64.24018" y="39.241554"/>
+			<point x="40.8569" y="65.78621" type="curve"/>
+			<point x="17.473621" y="92.33086"/>
+			<point x="0.98103964" y="125.13421"/>
+			<point x="-5" y="160" type="curve" smooth="yes" identifier="1481cb8e-e7d7-45d3-9e7c-d13c005c3b92"/>
+			<point x="-10.146326" y="189.98482"/>
+			<point x="-7.5514617" y="220.82764"/>
+			<point x="-1.9908687" y="250.7384" type="curve"/>
+			<point x="3.5697246" y="280.64917"/>
+			<point x="12.05502" y="309.92987"/>
+			<point x="18.796358" y="339.59683" type="curve"/>
+			<point x="25.537695" y="369.2638"/>
+			<point x="30.553322" y="399.61642"/>
+			<point x="29" y="430" type="curve" smooth="yes" identifier="87750600-37d0-4a7e-bcf2-ef9bc735e8bf"/>
+			<point x="27.722452" y="455.09735"/>
+			<point x="21.991873" y="479.72546"/>
+			<point x="16.455736" y="504.2379" type="curve"/>
+			<point x="10.919601" y="528.75037"/>
+			<point x="5.5322394" y="553.489"/>
+			<point x="4.960395" y="578.61237" type="curve"/>
+			<point x="4.3885503" y="603.7357"/>
+			<point x="8.924187" y="629.54"/>
+			<point x="22" y="651" type="curve" smooth="yes" identifier="b214edee-9ba6-4816-ab30-50d44747f86c"/>
+			<point x="32.298927" y="667.9083"/>
+			<point x="47.567642" y="681.5124"/>
+			<point x="64.82462" y="691.21576" type="curve"/>
+			<point x="82.081604" y="700.9191"/>
+			<point x="101.29058" y="706.83954"/>
+			<point x="120.8107" y="710.1446" type="curve"/>
+			<point x="140.33081" y="713.4497"/>
+			<point x="160.203" y="714.19385"/>
+			<point x="180" y="714" type="curve" smooth="yes" identifier="7ebd4473-f9c1-4513-8a8b-1874e34890fd"/>
+			<point x="209.23473" y="713.7133"/>
+			<point x="238.57011" y="711.3723"/>
+			<point x="267.03183" y="704.68787" type="curve"/>
+			<point x="295.49356" y="698.00336"/>
+			<point x="323.12442" y="686.8733"/>
+			<point x="347" y="670" type="curve" smooth="yes" identifier="96a0cf98-bbd8-46d4-8310-bda03d6ec403"/>
+			<point x="363.27057" y="658.50116"/>
+			<point x="378.04953" y="644.09955"/>
+			<point x="388.88324" y="626.9986" type="curve"/>
+			<point x="399.71698" y="609.8976"/>
+			<point x="406.46396" y="589.9993"/>
+			<point x="406.70367" y="570.077" type="curve"/>
+			<point x="406.9434" y="550.1547"/>
+			<point x="400.39795" y="530.3493"/>
+			<point x="388" y="516" type="curve" smooth="yes" identifier="47f7c012-9240-4500-9d0a-8df646865ec7"/>
+			<point x="382.10413" y="509.17392"/>
+			<point x="374.96454" y="503.55405"/>
+			<point x="367.87363" y="497.97955" type="curve"/>
+			<point x="360.7827" y="492.40503"/>
+			<point x="353.64368" y="486.78427"/>
+			<point x="347.74933" y="479.9569" type="curve"/>
+			<point x="341.85498" y="473.12955"/>
+			<point x="337.21664" y="464.93735"/>
+			<point x="336" y="456" type="curve" smooth="yes" identifier="19f190ee-5ea7-48e1-a6dd-fc4e82b5a3b0"/>
+			<point x="334.4326" y="444.51434"/>
+			<point x="338.7222" y="432.7655"/>
+			<point x="345.77078" y="423.56256" type="curve"/>
+			<point x="352.8194" y="414.3596"/>
+			<point x="362.4276" y="407.4323"/>
+			<point x="372.44797" y="401.604" type="curve"/>
+			<point x="382.46835" y="395.7757"/>
+			<point x="393.0294" y="390.91302"/>
+			<point x="403" y="385" type="curve" smooth="yes" identifier="4443180d-24ca-49a8-8f1d-539f15d04954"/>
+			<point x="421.4357" y="374.0712"/>
+			<point x="437.72137" y="359.57922"/>
+			<point x="450.93317" y="342.7043" type="curve"/>
+			<point x="464.14496" y="325.8294"/>
+			<point x="474.28757" y="306.58847"/>
+			<point x="481.0035" y="286.2363" type="curve"/>
+			<point x="487.71945" y="265.88416"/>
+			<point x="491.01794" y="244.43161"/>
+			<point x="491" y="223" type="curve" smooth="yes" identifier="8c61b7f0-eba6-4e10-9b68-abd1b8531ac0"/>
+			<point x="490.96378" y="179.70166"/>
+			<point x="477.1993" y="136.70512"/>
+			<point x="453.19788" y="100.66793" type="curve"/>
+			<point x="429.19644" y="64.630745"/>
+			<point x="395.16434" y="35.558598"/>
+			<point x="356.4102" y="16.248915" type="curve"/>
+			<point x="317.65607" y="-3.060767"/>
+			<point x="274.2973" y="-12.697015"/>
+			<point x="231" y="-13" type="curve" smooth="yes" identifier="7a0f2558-692e-4de3-9ebb-283c820421fd"/>
+		</contour>
+		<contour identifier="77296f3d-31b6-4efd-b3b3-3a496a38514a">
+			<point x="257.34497" y="171.53221"/>
+			<point x="265.76166" y="173.65723"/>
+			<point x="273.09277" y="177.6712" type="curve"/>
+			<point x="280.42392" y="181.68518"/>
+			<point x="286.6811" y="187.54523"/>
+			<point x="291.51624" y="194.36276" type="curve"/>
+			<point x="296.3514" y="201.1803"/>
+			<point x="299.7876" y="208.94005"/>
+			<point x="302" y="217" type="curve" smooth="yes" identifier="99d94917-5efa-44ad-97ac-d96bdcbeaf5f"/>
+			<point x="305.63937" y="230.2578"/>
+			<point x="306.18982" y="245.91373"/>
+			<point x="302.87103" y="261.17883" type="curve"/>
+			<point x="299.55222" y="276.44394"/>
+			<point x="292.47845" y="291.22412"/>
+			<point x="283.07355" y="303.2249" type="curve"/>
+			<point x="273.66867" y="315.22574"/>
+			<point x="261.93304" y="324.43994"/>
+			<point x="250.35544" y="329.4727" type="curve"/>
+			<point x="238.77785" y="334.50543"/>
+			<point x="227.49054" y="335.0006"/>
+			<point x="220" y="333" type="curve" smooth="yes" identifier="a667a459-faa6-4da7-a141-1ed13649ed21"/>
+			<point x="210.16826" y="330.37445"/>
+			<point x="201.3657" y="322.67963"/>
+			<point x="196.00102" y="312.8813" type="curve"/>
+			<point x="190.63634" y="303.08295"/>
+			<point x="188.47691" y="291.42572"/>
+			<point x="188.34425" y="279.92416" type="curve"/>
+			<point x="188.2116" y="268.42258"/>
+			<point x="189.96481" y="256.98386"/>
+			<point x="192" y="246" type="curve" smooth="yes" identifier="9a624f2f-fb89-49ae-a32a-c99856223510"/>
+			<point x="194.04594" y="234.96384"/>
+			<point x="196.49577" y="223.94258"/>
+			<point x="200.6378" y="213.51059" type="curve"/>
+			<point x="204.77983" y="203.0786"/>
+			<point x="210.69241" y="193.20169"/>
+			<point x="218.91278" y="185.55914" type="curve"/>
+			<point x="227.13315" y="177.9166"/>
+			<point x="237.79335" y="172.62767"/>
+			<point x="249" y="172" type="curve" smooth="yes" identifier="93249290-e005-4078-b9b5-f3cdd9c7f4eb"/>
+		</contour>
+		<contour identifier="01aa98eb-6590-4479-bee2-fb59df4dd2c2">
+			<point x="209.4348" y="535.0349"/>
+			<point x="215.89256" y="536.37195"/>
+			<point x="221.68425" y="539.1763" type="curve"/>
+			<point x="227.47595" y="541.9805"/>
+			<point x="232.58156" y="546.2762"/>
+			<point x="236.0836" y="551.6747" type="curve"/>
+			<point x="239.58565" y="557.0731"/>
+			<point x="241.43622" y="563.5799"/>
+			<point x="241" y="570" type="curve" smooth="yes" identifier="68de1d2f-0a18-4179-8440-0063efacafa7"/>
+			<point x="240.53433" y="576.8536"/>
+			<point x="237.2746" y="584.3311"/>
+			<point x="231.61136" y="590.1515" type="curve"/>
+			<point x="225.94814" y="595.97186"/>
+			<point x="217.99309" y="600.0804"/>
+			<point x="209.5679" y="601.46423" type="curve"/>
+			<point x="201.14273" y="602.84814"/>
+			<point x="192.32529" y="601.5056"/>
+			<point x="185" y="598" type="curve" smooth="yes" identifier="8ce8faac-c430-4b8d-85ff-c125c8a3c8e9"/>
+			<point x="180.77306" y="595.9772"/>
+			<point x="176.8964" y="593.20276"/>
+			<point x="173.69543" y="589.78033" type="curve"/>
+			<point x="170.49448" y="586.358"/>
+			<point x="167.97612" y="582.28503"/>
+			<point x="166.44492" y="577.85626" type="curve"/>
+			<point x="164.91371" y="573.4274"/>
+			<point x="164.37921" y="568.6447"/>
+			<point x="165" y="564" type="curve" smooth="yes" identifier="564efa10-cc28-4158-a0db-1a64fd7e8e18"/>
+			<point x="165.76889" y="558.2471"/>
+			<point x="168.30919" y="552.7746"/>
+			<point x="172.03406" y="548.3234" type="curve"/>
+			<point x="175.75894" y="543.8723"/>
+			<point x="180.64178" y="540.43463"/>
+			<point x="186.00366" y="538.2125" type="curve"/>
+			<point x="191.36552" y="535.9905"/>
+			<point x="197.19601" y="534.96857"/>
+			<point x="203" y="535" type="curve" smooth="yes" identifier="7a375d09-e077-4e5a-aed0-9612d71af4fe"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.objectLibs</key>
+			<dict>
+				<key>964a01c3-9ec8-4caf-960c-f4c3c6847b39</key>
+				<dict>
+					<key>org.linebender.hyperbezier-version</key>
+					<integer>1</integer>
+				</dict>
+				<key>1481cb8e-e7d7-45d3-9e7c-d13c005c3b92</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>123</real>
+						<key>x2</key>
+						<real>14</real>
+						<key>y1</key>
+						<real>-14</real>
+						<key>y2</key>
+						<real>48</real>
+						<key>auto1</key>
+						<true />
+						<key>auto2</key>
+						<true />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>87750600-37d0-4a7e-bcf2-ef9bc735e8bf</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>-21</real>
+						<key>x2</key>
+						<real>34</real>
+						<key>y1</key>
+						<real>251</real>
+						<key>y2</key>
+						<real>339</real>
+						<key>auto1</key>
+						<true />
+						<key>auto2</key>
+						<true />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>b214edee-9ba6-4816-ab30-50d44747f86c</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>25</real>
+						<key>x2</key>
+						<real>-20</real>
+						<key>y1</key>
+						<real>504</real>
+						<key>y2</key>
+						<real>582</real>
+						<key>auto1</key>
+						<true />
+						<key>auto2</key>
+						<true />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>7ebd4473-f9c1-4513-8a8b-1874e34890fd</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>55</real>
+						<key>x2</key>
+						<real>121</real>
+						<key>y1</key>
+						<real>705</real>
+						<key>y2</key>
+						<real>715</real>
+						<key>auto1</key>
+						<true />
+						<key>auto2</key>
+						<true />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>96a0cf98-bbd8-46d4-8310-bda03d6ec403</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>238</real>
+						<key>x2</key>
+						<real>298</real>
+						<key>y1</key>
+						<real>713</real>
+						<key>y2</key>
+						<real>704</real>
+						<key>auto1</key>
+						<true />
+						<key>auto2</key>
+						<true />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>47f7c012-9240-4500-9d0a-8df646865ec7</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>396</real>
+						<key>x2</key>
+						<real>430</real>
+						<key>y1</key>
+						<real>635</real>
+						<key>y2</key>
+						<real>565</real>
+						<key>auto1</key>
+						<true />
+						<key>auto2</key>
+						<true />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>19f190ee-5ea7-48e1-a6dd-fc4e82b5a3b0</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>371</real>
+						<key>x2</key>
+						<real>340</real>
+						<key>y1</key>
+						<real>496</real>
+						<key>y2</key>
+						<real>485</real>
+						<key>auto1</key>
+						<true />
+						<key>auto2</key>
+						<true />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>4443180d-24ca-49a8-8f1d-539f15d04954</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>331</real>
+						<key>x2</key>
+						<real>374</real>
+						<key>y1</key>
+						<real>416</real>
+						<key>y2</key>
+						<real>402</real>
+						<key>auto1</key>
+						<true />
+						<key>auto2</key>
+						<true />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>8c61b7f0-eba6-4e10-9b68-abd1b8531ac0</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>460</real>
+						<key>x2</key>
+						<real>491</real>
+						<key>y1</key>
+						<real>351</real>
+						<key>y2</key>
+						<real>288</real>
+						<key>auto1</key>
+						<true />
+						<key>auto2</key>
+						<true />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>7a0f2558-692e-4de3-9ebb-283c820421fd</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>491</real>
+						<key>x2</key>
+						<real>365</real>
+						<key>y1</key>
+						<real>83</real>
+						<key>y2</key>
+						<real>-12</real>
+						<key>auto1</key>
+						<true />
+						<key>auto2</key>
+						<true />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>77296f3d-31b6-4efd-b3b3-3a496a38514a</key>
+				<dict>
+					<key>org.linebender.hyperbezier-version</key>
+					<integer>1</integer>
+				</dict>
+				<key>99d94917-5efa-44ad-97ac-d96bdcbeaf5f</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>276</real>
+						<key>x2</key>
+						<real>295</real>
+						<key>y1</key>
+						<real>170</real>
+						<key>y2</key>
+						<real>193</real>
+						<key>auto1</key>
+						<true />
+						<key>auto2</key>
+						<true />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>a667a459-faa6-4da7-a141-1ed13649ed21</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>317</real>
+						<key>x2</key>
+						<real>258</real>
+						<key>y1</key>
+						<real>273</real>
+						<key>y2</key>
+						<real>343</real>
+						<key>auto1</key>
+						<true />
+						<key>auto2</key>
+						<true />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>9a624f2f-fb89-49ae-a32a-c99856223510</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>185</real>
+						<key>x2</key>
+						<real>186</real>
+						<key>y1</key>
+						<real>324</real>
+						<key>y2</key>
+						<real>278</real>
+						<key>auto1</key>
+						<true />
+						<key>auto2</key>
+						<true />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>93249290-e005-4078-b9b5-f3cdd9c7f4eb</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>198</real>
+						<key>x2</key>
+						<real>211</real>
+						<key>y1</key>
+						<real>214</real>
+						<key>y2</key>
+						<real>174</real>
+						<key>auto1</key>
+						<true />
+						<key>auto2</key>
+						<true />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>01aa98eb-6590-4479-bee2-fb59df4dd2c2</key>
+				<dict>
+					<key>org.linebender.hyperbezier-version</key>
+					<integer>1</integer>
+				</dict>
+				<key>68de1d2f-0a18-4179-8440-0063efacafa7</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>223</real>
+						<key>x2</key>
+						<real>242</real>
+						<key>y1</key>
+						<real>535</real>
+						<key>y2</key>
+						<real>549</real>
+						<key>auto1</key>
+						<true />
+						<key>auto2</key>
+						<true />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>8ce8faac-c430-4b8d-85ff-c125c8a3c8e9</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>239</real>
+						<key>x2</key>
+						<real>208</real>
+						<key>y1</key>
+						<real>593</real>
+						<key>y2</key>
+						<real>609</real>
+						<key>auto1</key>
+						<true />
+						<key>auto2</key>
+						<true />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>564efa10-cc28-4158-a0db-1a64fd7e8e18</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>172</real>
+						<key>x2</key>
+						<real>163</real>
+						<key>y1</key>
+						<real>592</real>
+						<key>y2</key>
+						<real>579</real>
+						<key>auto1</key>
+						<true />
+						<key>auto2</key>
+						<true />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>7a375d09-e077-4e5a-aed0-9612d71af4fe</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>167</real>
+						<key>x2</key>
+						<real>185</real>
+						<key>y1</key>
+						<real>545</real>
+						<key>y2</key>
+						<real>535</real>
+						<key>auto1</key>
+						<true />
+						<key>auto2</key>
+						<true />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>
